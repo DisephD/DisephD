@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Diseph (pronounced "Dee-sep")
 - 🌱 I’m a Data Analyst currently learning Data Science
+- ✨ Tools: Python, SQL, APIs, Tableau, PowerBI, Excel, Macros, VBA, SPSS, HTML, CSS
 - 📫 How to reach me: disephdumigoni@gmail.com
 
 <!---
