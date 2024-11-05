@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Diseph (pronounced "Dee-sep")
 - 🌱 I’m a Data Analyst currently learning Data Science
 - ✨ Tools: Python, SQL, APIs, Tableau, PowerBI, Excel, Macros, VBA, SPSS, HTML, CSS
-- 📫 How to reach me: disephdumigoni@gmail.com
+- 📫 How to reach me: disephdum@gmail.com
 
 <!---
 DisephD/DisephD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
