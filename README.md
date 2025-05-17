@@ -1,7 +1,8 @@
 <h1 align="center">Hi 🙋‍♀️, I'm Diseph </h1>
+
 ![image](/header_gif.gif)
 
-- 🔭 I’m currently working on an [Astronauts’ Dashboard](https://github.com/DisephD/NASA-Intl-Space-Station-Project)
+- 🔭 I’m currently working on a [Space Project](https://github.com/DisephD/NASA-Intl-Space-Station-Project)
 
 - 👯 I’m looking to collaborate on **Data Science & Tax-Tech Projects**
 
