@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science & Tax-Tech Projects**
 
-- 👨‍💻 All of my projects are available on [My Portfolio](datascienceportfol.io/DisephDumIgoni](datascienceportfol.io/DisephDumIgoni)
+- 👨‍💻 All of my projects are available on [My Portfolio](datascienceportfol.io/DisephDumIgoni)
 
 - 📝 I regularly write articles on [https://diseph.medium.com/](https://diseph.medium.com/)
 
