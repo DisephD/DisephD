@@ -1,3 +1,6 @@
+# Hi, I'm Diseph 🙋🏼‍♀️
+![image](/header_gif.gif)
+
 - 👋 Hi, I’m Diseph (pronounced "Dee-sep")
 - 🌱 I’m a Data Analyst transitioning to Data Science
 - ✨ Tools: Python, SQL, APIs, Tableau, PowerBI, Excel, Macros, VBA, SPSS, HTML, CSS
