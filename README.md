@@ -3,11 +3,11 @@
 
 ![image](/header_gif.gif)
 
-- 🔭 I’m currently working on [ISS Astronauts’ Dashboard](https://github.com/DisephD/NASA-Intl-Space-Station-Project)
+- 🔭 I’m currently working on an [Astronauts’ Dashboard](https://github.com/DisephD/NASA-Intl-Space-Station-Project)
 
 - 👯 I’m looking to collaborate on **Data Science & Tax-Tech Projects**
 
-- 👨‍💻 All of my projects are available at [datascienceportfol.io/DisephDumIgoni](datascienceportfol.io/DisephDumIgoni)
+- 👨‍💻 All of my projects are available on [My Portfolio](datascienceportfol.io/DisephDumIgoni](datascienceportfol.io/DisephDumIgoni)
 
 - 📝 I regularly write articles on [https://diseph.medium.com/](https://diseph.medium.com/)
 
