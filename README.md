@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋‍♀️, I'm Diseph </h1>
-<h3 align="center">A Data Scientist and Technical Writer</h3>
+<h3 align="center">A Data Scientist </h3>
 
 ![image](/header_gif.gif)
 
